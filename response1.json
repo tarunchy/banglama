@@ -1,0 +1,34 @@
+{
+  "conversationToken": "[]",
+  "expectUserResponse": true,
+  "expectedInputs": [
+    {
+      "inputPrompt": {
+        "richInitialPrompt": {
+          "items": [
+            {
+              "simpleResponse": {
+                "textToSpeech": "My idol and favourite Bengali is Ishwar Chandra Vidyasagar. He wrote the Barnaparichaya which is the base of mordern Bengali language.He was also behind the Widow remarriage act, women liberation and many many endless social reforms.When the list is meant to be about global popularity and not limited to India then according me this the list. I am not going to write their achievements because their name and popularity is enough to explain . Some are noble laureate and some ended up with oscar , created big social reforms across the globe.\n\nSwami Vivekananada.\nRabindranath Tagore.\nSatyendranath Bose\nSatyajit Ray\nI will end it here. Because if i close my eyes these are the very first names that comes in my mind.\n\nWell some surprising bengali achievements right now\n\nDo you know the speaker company BOSE , one the best in the world.. Well the founder is a bengali Amar G. Bose.\nHave any one read or came across the term about Human Development index (HDI) , Amartya Sen coined it.  He is a noble laureate in Economics.\nThe list is long and endless. I am a proud Indian and a proud Bengali.",
+                "displayText": "My idol and favourite Bengali is Ishwar Chandra Vidyasagar. He wrote the Barnaparichaya which is the base of mordern Bengali language.He was also behind the Widow remarriage act, women liberation and many many endless social reforms.When the list is meant to be about global popularity and not limited to India then according me this the list. I am not going to write their achievements because their name and popularity is enough to explain . Some are noble laureate and some ended up with oscar , created big social reforms across the globe.\n\nSwami Vivekananada.\nRabindranath Tagore.\nSatyendranath Bose\nSatyajit Ray\nI will end it here. Because if i close my eyes these are the very first names that comes in my mind.\n\nWell some surprising bengali achievements right now\n\nDo you know the speaker company BOSE , one the best in the world.. Well the founder is a bengali Amar G. Bose.\nHave any one read or came across the term about Human Development index (HDI) , Amartya Sen coined it.  He is a noble laureate in Economics.\nThe list is long and endless. I am a proud Indian and a proud Bengali."
+              }
+            }
+          ]
+        }
+      },
+      "possibleIntents": [
+        {
+          "intent": "assistant.intent.action.TEXT"
+        }
+      ]
+    }
+  ],
+  "responseMetadata": {
+    "status": {
+      "message": "Success (200)"
+    },
+    "queryMatchInfo": {
+      "queryMatched": true,
+      "intent": "0547e591-55f9-41b2-9025-3016c5449482"
+    }
+  }
+}
